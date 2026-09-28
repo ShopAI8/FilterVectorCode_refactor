@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/src",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -Dcmocka_EXPORTS -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/src -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/src -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIC -std=gnu99 -Wpedantic -Wall -Wshadow -Wmissing-prototypes -Wcast-align -Werror=address -Wstrict-prototypes -Werror=strict-prototypes -Wwrite-strings -Werror=write-strings -Werror-implicit-function-declaration -Wpointer-arith -Werror=pointer-arith -Wdeclaration-after-statement -Werror=declaration-after-statement -Wreturn-type -Werror=return-type -Wuninitialized -Werror=uninitialized -Wimplicit-fallthrough -Werror=strict-overflow -Wstrict-overflow=2 -Wno-format-zero-length -Wmissing-field-initializers -Wformat -Wformat-security -Werror=format-security -fno-common -fstack-protector-strong -fstack-clash-protection -DHAVE_CONFIG_H -o CMakeFiles/cmocka.dir/cmocka.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/src/cmocka.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/src/cmocka.c",
+  "output": "_deps/cmocka-build/src/CMakeFiles/cmocka.dir/cmocka.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/src",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/src -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/src -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIC -std=gnu99 -Wpedantic -Wall -Wshadow -Wmissing-prototypes -Wcast-align -Werror=address -Wstrict-prototypes -Werror=strict-prototypes -Wwrite-strings -Werror=write-strings -Werror-implicit-function-declaration -Wpointer-arith -Werror=pointer-arith -Wdeclaration-after-statement -Werror=declaration-after-statement -Wreturn-type -Werror=return-type -Wuninitialized -Werror=uninitialized -Wimplicit-fallthrough -Werror=strict-overflow -Wstrict-overflow=2 -Wno-format-zero-length -Wmissing-field-initializers -Wformat -Wformat-security -Werror=format-security -fno-common -fstack-protector-strong -fstack-clash-protection -DHAVE_CONFIG_H -o CMakeFiles/cmocka-static.dir/cmocka.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/src/cmocka.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/src/cmocka.c",
+  "output": "_deps/cmocka-build/src/CMakeFiles/cmocka-static.dir/cmocka.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIE -std=gnu99 -Wpedantic -Wall -Wshadow -Wmissing-prototypes -Wcast-align -Werror=address -Wstrict-prototypes -Werror=strict-prototypes -Wwrite-strings -Werror=write-strings -Werror-implicit-function-declaration -Wpointer-arith -Werror=pointer-arith -Wdeclaration-after-statement -Werror=declaration-after-statement -Wreturn-type -Werror=return-type -Wuninitialized -Werror=uninitialized -Wimplicit-fallthrough -Werror=strict-overflow -Wstrict-overflow=2 -Wno-format-zero-length -Wmissing-field-initializers -Wformat -Wformat-security -Werror=format-security -fno-common -fstack-protector-strong -fstack-clash-protection -o CMakeFiles/simple_test.dir/simple_test.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/simple_test.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/simple_test.c",
+  "output": "_deps/cmocka-build/example/CMakeFiles/simple_test.dir/simple_test.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -DUNIT_TESTING=1 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIE -o CMakeFiles/allocate_module_test.dir/allocate_module.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/allocate_module.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/allocate_module.c",
+  "output": "_deps/cmocka-build/example/CMakeFiles/allocate_module_test.dir/allocate_module.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIE -o CMakeFiles/allocate_module_test.dir/allocate_module_test.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/allocate_module_test.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/allocate_module_test.c",
+  "output": "_deps/cmocka-build/example/CMakeFiles/allocate_module_test.dir/allocate_module_test.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIE -o CMakeFiles/assert_macro_test.dir/assert_macro.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/assert_macro.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/assert_macro.c",
+  "output": "_deps/cmocka-build/example/CMakeFiles/assert_macro_test.dir/assert_macro.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIE -o CMakeFiles/assert_macro_test.dir/assert_macro_test.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/assert_macro_test.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/assert_macro_test.c",
+  "output": "_deps/cmocka-build/example/CMakeFiles/assert_macro_test.dir/assert_macro_test.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -DUNIT_TESTING=1 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIE -o CMakeFiles/assert_module_test.dir/assert_module.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/assert_module.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/assert_module.c",
+  "output": "_deps/cmocka-build/example/CMakeFiles/assert_module_test.dir/assert_module.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIE -o CMakeFiles/assert_module_test.dir/assert_module_test.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/assert_module_test.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/assert_module_test.c",
+  "output": "_deps/cmocka-build/example/CMakeFiles/assert_module_test.dir/assert_module_test.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example/mock/chef_wrap",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example/mock/chef_wrap -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/chef_wrap -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIE -o CMakeFiles/waiter_test_wrap.dir/waiter_test_wrap.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/chef_wrap/waiter_test_wrap.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/chef_wrap/waiter_test_wrap.c",
+  "output": "_deps/cmocka-build/example/mock/chef_wrap/CMakeFiles/waiter_test_wrap.dir/waiter_test_wrap.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example/mock/chef_wrap",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example/mock/chef_wrap -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/chef_wrap -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIE -o CMakeFiles/waiter_test_wrap.dir/chef.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/chef_wrap/chef.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/chef_wrap/chef.c",
+  "output": "_deps/cmocka-build/example/mock/chef_wrap/CMakeFiles/waiter_test_wrap.dir/chef.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example/mock/uptime",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example/mock/uptime -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/uptime -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIC -o CMakeFiles/proc_uptime.dir/proc_uptime.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/uptime/proc_uptime.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/uptime/proc_uptime.c",
+  "output": "_deps/cmocka-build/example/mock/uptime/CMakeFiles/proc_uptime.dir/proc_uptime.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example/mock/uptime",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example/mock/uptime -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/uptime -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIE -std=gnu99 -Wpedantic -Wall -Wshadow -Wmissing-prototypes -Wcast-align -Werror=address -Wstrict-prototypes -Werror=strict-prototypes -Wwrite-strings -Werror=write-strings -Werror-implicit-function-declaration -Wpointer-arith -Werror=pointer-arith -Wdeclaration-after-statement -Werror=declaration-after-statement -Wreturn-type -Werror=return-type -Wuninitialized -Werror=uninitialized -Wimplicit-fallthrough -Werror=strict-overflow -Wstrict-overflow=2 -Wno-format-zero-length -Wmissing-field-initializers -Wformat -Wformat-security -Werror=format-security -fno-common -fstack-protector-strong -fstack-clash-protection -o CMakeFiles/uptime.dir/uptime.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/uptime/uptime.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/uptime/uptime.c",
+  "output": "_deps/cmocka-build/example/mock/uptime/CMakeFiles/uptime.dir/uptime.c.o"
+},
+{
+  "directory": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example/mock/uptime",
+  "command": "/usr/bin/cc -D_GLIBCXX_USE_CXX11_ABI=0 -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-build/example/mock/uptime -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/uptime -I/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/include -I/home/dev/graphdb/boost_1_89_0/include  -fopenmp -O3 -DNDEBUG -std=gnu11 -fPIE -std=gnu99 -Wpedantic -Wall -Wshadow -Wmissing-prototypes -Wcast-align -Werror=address -Wstrict-prototypes -Werror=strict-prototypes -Wwrite-strings -Werror=write-strings -Werror-implicit-function-declaration -Wpointer-arith -Werror=pointer-arith -Wdeclaration-after-statement -Werror=declaration-after-statement -Wreturn-type -Werror=return-type -Wuninitialized -Werror=uninitialized -Wimplicit-fallthrough -Werror=strict-overflow -Wstrict-overflow=2 -Wno-format-zero-length -Wmissing-field-initializers -Wformat -Wformat-security -Werror=format-security -fno-common -fstack-protector-strong -fstack-clash-protection -o CMakeFiles/test_uptime.dir/test_uptime.c.o -c /home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/uptime/test_uptime.c",
+  "file": "/home/dev/graphdb/FilterVectorCode_refactor/UNG/build-cpu2/_deps/cmocka-src/example/mock/uptime/test_uptime.c",
+  "output": "_deps/cmocka-build/example/mock/uptime/CMakeFiles/test_uptime.dir/test_uptime.c.o"
+}
+]
